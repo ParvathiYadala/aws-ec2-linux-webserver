@@ -16,6 +16,7 @@ This project demonstrates hosting a static website on an AWS EC2 Ubuntu instance
 3. Installed and managed Apache
 4. Deployed static website using index.html
 5. Checked logs and managed services
+6. Stopped EC2 to avoid charges
 
 ## Outcome
 Successfully hosted a static website on AWS EC2.
