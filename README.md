@@ -19,3 +19,11 @@ This project demonstrates hosting a static website on an AWS EC2 Ubuntu instance
 
 ## Outcome
 Successfully hosted a static website on AWS EC2.
+
+
+
+## Author
+Parvathi Yadala
+
+## Status
+Completed – Learning project
